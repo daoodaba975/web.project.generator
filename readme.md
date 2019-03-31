@@ -1,19 +1,19 @@
 # #Générateur-Projet
 
-Il s’agit d’un générateur des dossiers de base pour vos projet Web réalisé avec GO.
+Il s’agit d’un générateur de dossier de base pour vos projet Web réalisé avec GO.
 
 <ul>
     <li>
-        dossier Projet
+        Projet
         <ul>
             <li>
-                dossier Public
+                Public
                 <ul>
-                    <li>dossier CSS</li>
-                    <li>dossier Images</li>
-                    <li>dossier Javascript</li>
+                    <li>CSS</li>
+                    <li>Images</li>
+                    <li>Javascript</li>
                     <li>
-                        dossier Less
+                        Less
                         <ul>
                             <li>fichiers Less</li>
                         </ul>
