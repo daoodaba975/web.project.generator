@@ -1,4 +1,4 @@
-# #Générateur-Projet
+# #Générateur-de-projetWEB
 
 Il s’agit d’un générateur de dossier de base pour vos projet Web réalisé avec GO.
 
