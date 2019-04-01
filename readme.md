@@ -45,4 +45,4 @@ Pour générer une excutable, vous devez écrire sur votre console
 
 ### Modification
 
-Vous pouvez personaliser le code source selon vos besoins si vous connaissez bien le langage GO !
+Vous pouvez personnaliser le code source selon vos besoins si vous connaissez bien le langage GO !
