@@ -1,6 +1,6 @@
-# Générateur-de-projetWEB
+# WEB project generator with GO
 
-Il s’agit d’un générateur de dossier de base pour vos projets Web, réalisé avec GO.
+This is a basic folder generator for your web projects, made with GO by @daoodaba975
 
 <ul>
     <li>
@@ -24,25 +24,16 @@ Il s’agit d’un générateur de dossier de base pour vos projets Web, réalis
     </li>
 </ul>
 
+You must have GO installed in your laptop
 
-Vous devez avoir GO installé dans votre machine
+## Launch
 
-
-### Lancer l'application
-
-Pour exécuter l'application, vous devez écrire sur votre console
+To run the application, you must write on your terminal
 
 `go run main.go`
 
+### Generate an executable (.exe)
 
-
-### Générer un exécutable (.exe)
-
-Pour générer une excutable, vous devez écrire sur votre console
+To generate an executable, you must write on your terminal
 
 `go build main.go`
-
-
-### Modification
-
-Vous pouvez personnaliser le code source selon vos besoins si vous connaissez bien le langage GO !
